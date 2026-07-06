@@ -1,0 +1,2 @@
+# NYC-311-Service-Request-Analysis-Python-PowerBI
+This project analyzes NYC 311 service request data to identify public complaint patterns, demand across locations, and agency workload. Data cleaning and EDA were performed to handle missing values and find insights on complaint types and trends. The analysis helps improve city services and supports data-driven decision-making using visualizations.
