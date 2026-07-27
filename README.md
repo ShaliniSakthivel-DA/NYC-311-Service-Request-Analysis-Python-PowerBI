@@ -103,77 +103,74 @@ This drive contains:
 
 ## Measure of Central Tendency
 
+- Mean Daily Requests: **10,414**
+- Median: **10,889**
+- Most days recorded **10K–11K** requests.
+- Demand remained consistent throughout the analysis.
+
 | Metric | Value |
 |---------|-------|
 | Mean | **10,414.09** |
 | Median | **10,889** |
 | Mode | **21** |
 
+<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/fdc22e79-645a-489e-bc3d-e75e8c87961c" />
+
 ---
 
 ## Daily Request Variability
+
+Daily Service Request Variation
+- Moderate variation in daily requests.
+- Most values remained within one standard deviation.
+- Stable service demand across the analysis period.
+
 
 | Metric | Value |
 |---------|-------|
 | Variance | **5,526,419.08** |
 | Standard Deviation | **2,350.90** |
 
+<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/969be48c-10dc-41d5-8355-700cb159f525" />
+
 ---
 
 ## Agency Workload
+
+Agency-wise Service Request Distribution
+- Large variation across agencies.
+- Few agencies handled most requests.
+- Supports workload balancing.
+
 
 | Metric | Value |
 |---------|-------|
 | Variance | **4,029,909,858.57** |
 | Standard Deviation | **63,481.57** |
 
+<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/c7aa0496-187b-4540-af2d-dd91a31c06cc" />
+
 ---
 
 ## Distribution Analysis
+
+Reporting Channel Distribution
+- Online reporting dominated.
+- Phone and Mobile were also popular.
+- Digital reporting is the preferred method.
 
 | Metric | Value |
 |---------|-------|
 | Skewness | **0.743** |
 | Kurtosis | **1.716** |
 
----
-
-# 📊 Visualizations
-
-## 1️⃣ Distribution of Daily Service Request Counts
-
-- Mean Daily Requests: **10,414**
-- Median: **10,889**
-- Most days recorded **10K–11K** requests.
-- Demand remained consistent throughout the analysis.
-
----
-
-## 2️⃣ Daily Service Request Variation
-
-- Moderate variation in daily requests.
-- Most values remained within one standard deviation.
-- Stable service demand across the analysis period.
-
----
-
-## 3️⃣ Agency-wise Service Request Distribution
-
-- Large variation across agencies.
-- Few agencies handled most requests.
-- Supports workload balancing.
-
----
-
-## 4️⃣ Reporting Channel Distribution
-
-- Online reporting dominated.
-- Phone and Mobile were also popular.
-- Digital reporting is the preferred method.
+<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/102aed31-a605-4a7d-9d58-4a884e186f31" />
 
 ---
 
 ## 5️⃣ Top 10 Complaint Types
+
+<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/52a1f4ef-a4f5-4017-b91a-af8022e85065" />
 
 | Complaint Type | Requests |
 |---------------|---------:|
@@ -193,6 +190,8 @@ This drive contains:
 
 ## 6️⃣ Agency-wise Service Request Volumes
 
+<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/51f156c5-f70a-4e45-a2e6-96648d9c01c6" />
+
 | Agency | Requests |
 |---------|---------:|
 | NYPD | **244,377** |
@@ -209,6 +208,8 @@ This drive contains:
 
 ## 7️⃣ Service Request Status
 
+<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/cbdbed35-28ac-4be1-b18d-4b60c294560d" />
+
 | Status | Requests |
 |---------|---------:|
 | Closed | **422,187** |
@@ -223,6 +224,9 @@ This drive contains:
 ---
 
 ## 8️⃣ Reporting Channels
+
+<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/c7f96889-1a6f-439c-874f-4fea62023755" />
+
 
 | Channel | Requests |
 |----------|---------:|
@@ -241,6 +245,8 @@ This drive contains:
 
 ## 9️⃣ Complaint Categories Across Boroughs
 
+<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/bcd1b4dd-42f8-4405-af74-df8c6bcfd59f" />
+
 ### Summary
 
 - Brooklyn recorded the highest complaint volume.
@@ -253,6 +259,8 @@ This drive contains:
 
 ## 🔟 Daily Service Request Trend
 
+<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/374de25d-b206-471c-8e34-c5af2561cd54" />
+
 ### Summary
 
 - Daily requests remained stable.
@@ -264,6 +272,8 @@ This drive contains:
 
 ## 1️⃣1️⃣ Geographic Complaint Hotspots
 
+<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/a5c6e41c-8687-4364-b601-e240b83f67ef" />
+
 ### Summary
 
 - Complaint hotspots identified across NYC.
@@ -273,6 +283,8 @@ This drive contains:
 ---
 
 ## 1️⃣2️⃣ Top Complaint Categories by Borough
+
+<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/5b93d4dd-68aa-47e7-a22f-7c3a6ecc2c42" />
 
 ### Summary
 
@@ -284,6 +296,8 @@ This drive contains:
 ---
 
 ## 1️⃣3️⃣ Agency-wise Complaint Distribution Across Boroughs
+
+<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/cf01efc1-3fdc-4308-a5fb-391a37c35a57" />
 
 ### Summary
 
