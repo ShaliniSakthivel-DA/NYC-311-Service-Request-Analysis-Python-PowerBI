@@ -120,7 +120,7 @@ This drive contains:
 | Median | **10,889** |
 | Mode | **21** |
 
-<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/fdc22e79-645a-489e-bc3d-e75e8c87961c" />
+<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/aa686f69-84d7-4bb1-9de1-73fcf85129a5" />
 
 ---
 
@@ -137,7 +137,7 @@ Daily Service Request Variation
 | Variance | **5,526,419.08** |
 | Standard Deviation | **2,350.90** |
 
-<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/969be48c-10dc-41d5-8355-700cb159f525" />
+<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/b4268f58-28f9-4c8e-8011-5e3944f91170" />
 
 ---
 
@@ -154,7 +154,7 @@ Agency-wise Service Request Distribution
 | Variance | **4,029,909,858.57** |
 | Standard Deviation | **63,481.57** |
 
-<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/c7aa0496-187b-4540-af2d-dd91a31c06cc" />
+<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/2fa9ac79-1d15-423b-936c-0e3028c761c4" />
 
 ---
 
@@ -170,13 +170,13 @@ Reporting Channel Distribution
 | Skewness | **0.743** |
 | Kurtosis | **1.716** |
 
-<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/102aed31-a605-4a7d-9d58-4a884e186f31" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/9d900ab2-2ed4-4d27-a06c-57451ccbc1e3" />
 
 ---
 
 ## 5️⃣ Top 10 Complaint Types
 
-<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/52a1f4ef-a4f5-4017-b91a-af8022e85065" />
+<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/7234426d-8243-4a7b-a7e8-adca00535ed2" />
 
 | Complaint Type | Requests |
 |---------------|---------:|
@@ -196,7 +196,7 @@ Reporting Channel Distribution
 
 ## 6️⃣ Agency-wise Service Request Volumes
 
-<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/51f156c5-f70a-4e45-a2e6-96648d9c01c6" />
+<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/debb49db-0ff5-49eb-b3ca-37434747f9a4" />
 
 | Agency | Requests |
 |---------|---------:|
@@ -214,7 +214,7 @@ Reporting Channel Distribution
 
 ## 7️⃣ Service Request Status
 
-<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/cbdbed35-28ac-4be1-b18d-4b60c294560d" />
+<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/74d5312f-e566-45fe-afc8-45a186f763b3" />
 
 | Status | Requests |
 |---------|---------:|
@@ -231,7 +231,7 @@ Reporting Channel Distribution
 
 ## 8️⃣ Reporting Channels
 
-<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/c7f96889-1a6f-439c-874f-4fea62023755" />
+<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/c537cb54-057c-4aa9-90c3-290cdcffe7b4" />
 
 
 | Channel | Requests |
@@ -251,7 +251,7 @@ Reporting Channel Distribution
 
 ## 9️⃣ Complaint Categories Across Boroughs
 
-<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/bcd1b4dd-42f8-4405-af74-df8c6bcfd59f" />
+<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/85b14455-e428-4ef3-9782-b7234d97f02f" />
 
 ### Summary
 
