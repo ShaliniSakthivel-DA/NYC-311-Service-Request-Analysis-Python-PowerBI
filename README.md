@@ -16,6 +16,12 @@ The project includes:
 
 ---
 
+## Problem Statement
+
+New York City's 311 service receives thousands of public service requests every day. These requests cover different types of complaints across multiple city departments. Analyzing this data helps identify common issues, understand complaint trends, compare service demand across boroughs, evaluate agency workload, and find complaint hotspots. This project uses Python to analyze the NYC 311 Service Requests dataset and provide insights that support better decision-making and improve public services.
+
+---
+
 # 📂 Dataset
 
 | Details | Value |
