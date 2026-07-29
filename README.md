@@ -59,7 +59,7 @@ This drive contains:
 - Identify the top complaint categories.
 - Compare complaint distribution across boroughs.
 - Evaluate agency-wise workload.
-- Analyze request trends & request trends and current request status
+- Analyze request trends and current request status
 - Analyze reporting channels.
 - Identify complaint hotspots.
 
