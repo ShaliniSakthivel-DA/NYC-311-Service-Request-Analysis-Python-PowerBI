@@ -404,6 +404,10 @@ https://github.com/ShaliniSakthivel-DA/NYC-311-Service-Requests-Analytics-Automa
 
 ---
 
+## n8n Automation Workflow Image 
+
+<img width="900" height="350" alt="image" src="https://github.com/user-attachments/assets/d97e0ad8-d0d1-4b26-8ab0-a1f1c190e07d" />
+
 ## 📁 Automation Files
 
 The Google Drive folder contains:
