@@ -355,21 +355,13 @@ As an extension of the **NYC 311 Service Requests Analysis** project, an end-to-
 
 ## 🚀 Automation Workflow
 
-```text
-Schedule Trigger
-        │
-        ▼
-Python Data Processing
-        │
-        ▼
-Google Sheets Update
-        │
-        ▼
-Power BI Dashboard Refresh
-        │
-        ▼
-Updated Reports & Insights
-```
+<img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/d6c2cead-f22f-4f6f-85e4-fb52338f6355" />
+
+---
+
+## n8n Automation Workflow Image 
+
+<img width="850" height="250" alt="image" src="https://github.com/user-attachments/assets/d97e0ad8-d0d1-4b26-8ab0-a1f1c190e07d" />
 
 ---
 
@@ -409,11 +401,6 @@ Explore the complete automation workflow, implementation details, source code, a
 https://github.com/ShaliniSakthivel-DA/NYC-311-Service-Requests-Analytics-Automation-Pipeline-n8n-Python-PowerBI
 
 ---
-
-## n8n Automation Workflow Image 
-
-<img width="900" height="350" alt="image" src="https://github.com/user-attachments/assets/d97e0ad8-d0d1-4b26-8ab0-a1f1c190e07d" />
-
 ## 📁 Automation Files
 
 The Google Drive folder contains:
