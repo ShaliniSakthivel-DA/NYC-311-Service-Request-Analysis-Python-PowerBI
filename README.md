@@ -278,7 +278,7 @@ Reporting Channel Distribution
 
 ## 1️⃣1️⃣ Geographic Complaint Hotspots
 
-<img width="700" height="450" alt="image" src="https://github.com/user-attachments/assets/a5c6e41c-8687-4364-b601-e240b83f67ef" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/8fc96b69-e559-4af4-b48f-cf8c6a96986f" />
 
 ### Summary
 
